@@ -1,4 +1,4 @@
-<div align="center"><a href="https://github.com/mrtrunq">github@mrtrunq</a></div>
+## <div align="center"><a href="https://mrtrunq.github.io/portfolio_react/">Trung's Portfolio Site</a></div>
 
 ### Frontends
 
