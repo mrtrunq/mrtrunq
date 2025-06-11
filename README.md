@@ -1,14 +1,19 @@
-## Hi there 👋
+<div align="center"><a href="https://github.com/mrtrunq">github@mrtrunq</a></div>
 
-**mrtrunq/mrtrunq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Frontends
 
-Here are some ideas to get you started:
+| Frameworks                                                         | UI/UX                                              |
+| ------------------------------------------------------------------ | -------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> | <img src="https://skillicons.dev/icons?i=figma" /> |
 
--   🔭 I’m currently working on ...
--   🌱 I’m currently learning ...
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   💬 Ask me about ...
--   📫 How to reach me: ...
--   😄 Pronouns: ...
--   ⚡ Fun fact: ...
+### ⚙️ Backends
+
+| Frameworks                                                          | Databases                                                  |
+| ------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=laravel,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
+
+### ⚙️ DevOps & Tools
+
+| Devops                                                        | Tools                                                           |
+| ------------------------------------------------------------- | --------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=git,docker,linux" /> | <img src="https://skillicons.dev/icons?i=vscode,vim,postman" /> |
