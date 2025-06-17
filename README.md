@@ -8,9 +8,9 @@
 
 ### Backends
 
-| Frameworks                                                          | Databases                                                  |
-| ------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=laravel,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
+| Frameworks                                                   | Databases                                                  |
+| ------------------------------------------------------------ | ---------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=laravel,express" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
 
 ### ️ DevOps & Tools
 
