@@ -8,12 +8,12 @@
 
 ### Backends
 
-| Frameworks                                                   | Databases                                                  |
-| ------------------------------------------------------------ | ---------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=laravel,express" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
+| Frameworks                                                         | Databases                                                  |
+| ------------------------------------------------------------------ | ---------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
 
 ### ️ DevOps & Tools
 
-| Devops                                                        | Tools                                                           |
-| ------------------------------------------------------------- | --------------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=git,docker,linux" /> | <img src="https://skillicons.dev/icons?i=vscode,vim,postman" /> |
+| Devops                                                                | Tools                                                           |
+| --------------------------------------------------------------------- | --------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=git,docker,linux,jenkins" /> | <img src="https://skillicons.dev/icons?i=vscode,vim,postman" /> |
