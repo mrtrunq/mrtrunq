@@ -8,9 +8,9 @@
 
 ### Backends
 
-| Frameworks                                                         | Databases                                                  |
-| ------------------------------------------------------------------ | ---------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
+| Frameworks                                                         | Databases                                                             |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" /> |
 
 ### ️ DevOps & Tools
 
